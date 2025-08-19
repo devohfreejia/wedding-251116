@@ -9,7 +9,7 @@
 	import Location from '../components/locat.svelte';
 	import Footer from '../components/footer.svelte';
 	import { onMount } from "svelte";
-	import music from '../lib/assets/harunohi.mp3';
+	import music from '../lib/assets/harunohi_250819.mp3';
 
 	let audio;
 	let started = false;
