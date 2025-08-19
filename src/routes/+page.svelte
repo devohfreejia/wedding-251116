@@ -6,7 +6,6 @@
 	import type { PageProps } from './$types';
 	import Gallery from '../components/gallery.svelte';
 	let { form }: PageProps = $props();
-	import Bank from '../components/bank.svelte';
 	import Location from '../components/locat.svelte';
 	import Footer from '../components/footer.svelte';
 	import { onMount } from "svelte";
@@ -41,6 +40,5 @@
 <Calendar />
 <Location />
 <Gallery />
-<Bank />
 <Rsvp {form} />
 <Footer />
