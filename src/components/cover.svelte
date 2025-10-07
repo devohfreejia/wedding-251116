@@ -31,9 +31,6 @@
 	</div>
 
 	<div class="names-kr-box">
-		<span class="names kr">김원진</span>
-		<span class="names kr">그리고</span>
-		<span class="names kr">우지아</span>
 	</div>
 
 	<div class="cover-title-container">
