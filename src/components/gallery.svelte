@@ -6,7 +6,7 @@
 	import photo6 from '$lib/assets/gallery/66.webp';
 	import photo7 from '$lib/assets/gallery/777.webp';
 	import photo8 from '$lib/assets/gallery/888.webp';
-	import photo9 from '$lib/assets/gallery/99.webp';
+	import photo9 from '$lib/assets/gallery/123.webp';
 	import photo10 from '$lib/assets/gallery/100.webp';
 	import photo11 from '$lib/assets/gallery/110.webp';
 
