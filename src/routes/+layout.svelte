@@ -11,7 +11,7 @@
   let localeLoaded = $derived(!localeStore.isLoading && localeStore.locale);  
 
   // 클라이언트용 title (선택적)
-  let title = "원진 ♥ 지아의 결혼식에 초대합니다";
+  let title = "지아의 결혼식에 초대합니다";
   onMount(() => {
     document.body.classList.add('loaded');
     // locale이 로딩 완료되면 title 업데이트 (필요 시)
@@ -23,7 +23,7 @@
 
 <svelte:head>
   <!-- 기본 title -->
-  <title>원진 ♥ 지아의 결혼식에 초대합니다</title>
+  <title>지아의 결혼식에 초대합니다</title>
 
   <!-- 웹폰트 -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -38,16 +38,16 @@
   />
 
   <!-- OG / SNS 미리보기 -->
-  <meta property="og:title" content="원진 ♥ 지아의 결혼식에 초대합니다" />
-  <meta property="og:description" content="2025년 11월 16일 함께 달릴 준비 완료💨" />
+  <meta property="og:title" content="지아의 결혼식에 초대합니다" />
+  <meta property="og:description" content="To.다혜, 준수" />
   <meta property="og:image" content="https://wedding-invi-delta.vercel.app/preview_img_01.jpg" />
   <meta property="og:url" content="https://wedding-invi-delta.vercel.app" />
   <meta property="og:type" content="website" />
 
   <!-- optional: Twitter 카드 -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="원진 ♥ 지아의 결혼식에 초대합니다" />
-  <meta name="twitter:description" content="2025년 11월 16일 함께 달릴 준비 완료💨" />
+  <meta name="twitter:title" content="지아의 결혼식에 초대합니다" />
+  <meta name="twitter:description" content="To.다혜, 준수" />
   <meta name="twitter:image" content="https://wedding-invi-delta.vercel.app/preview_img.jpg_01" />
 </svelte:head>
 
