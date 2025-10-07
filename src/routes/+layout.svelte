@@ -40,7 +40,7 @@
   <!-- OG / SNS 미리보기 -->
   <meta property="og:title" content="지아의 결혼식에 초대합니다" />
   <meta property="og:description" content="To.다혜, 준수" />
-  <meta property="og:image" content="https://wedding-invi-delta.vercel.app/preview_img_01.jpg" />
+  <meta property="og:image" content="https://wedding-251116-ten.vercel.app/preview_img_01.jpg" />
   <meta property="og:url" content="https://wedding-251116-ten.vercel.app" />
   <meta property="og:type" content="website" />
 
@@ -48,7 +48,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="지아의 결혼식에 초대합니다" />
   <meta name="twitter:description" content="To.다혜, 준수" />
-  <meta name="twitter:image" content="https://wedding-invi-delta.vercel.app/preview_img.jpg_01" />
+  <meta name="twitter:image" content="https://wedding-251116-ten.vercel.app/preview_img.jpg_01" />
 </svelte:head>
 
 {#if localeLoaded}
