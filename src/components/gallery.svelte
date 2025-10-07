@@ -2,10 +2,10 @@
 	import photo2 from '$lib/assets/gallery/222.webp';
 	import photo3 from '$lib/assets/gallery/333.webp';
 	import photo4 from '$lib/assets/gallery/44.webp';
-	import photo5 from '$lib/assets/gallery/555.webp';
+	import photo5 from '$lib/assets/gallery/55500.webp';
 	import photo6 from '$lib/assets/gallery/66.webp';
-	import photo7 from '$lib/assets/gallery/777.webp';
-	import photo8 from '$lib/assets/gallery/888.webp';
+	import photo7 from '$lib/assets/gallery/77700.webp';
+	import photo8 from '$lib/assets/gallery/88800.webp';
 	import photo9 from '$lib/assets/gallery/123.webp';
 	import photo10 from '$lib/assets/gallery/100.webp';
 	import photo11 from '$lib/assets/gallery/110.webp';
