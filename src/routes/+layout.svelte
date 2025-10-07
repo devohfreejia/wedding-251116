@@ -41,7 +41,7 @@
   <meta property="og:title" content="지아의 결혼식에 초대합니다" />
   <meta property="og:description" content="To.다혜, 준수" />
   <meta property="og:image" content="https://wedding-invi-delta.vercel.app/preview_img_01.jpg" />
-  <meta property="og:url" content="https://wedding-invi-delta.vercel.app" />
+  <meta property="og:url" content="https://wedding-251116-ten.vercel.app" />
   <meta property="og:type" content="website" />
 
   <!-- optional: Twitter 카드 -->
