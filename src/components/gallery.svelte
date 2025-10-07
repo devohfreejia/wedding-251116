@@ -1,14 +1,14 @@
 <script lang="ts">
-	import photo2 from '$lib/assets/gallery/2.webp';
-	import photo3 from '$lib/assets/gallery/3.webp';
-	import photo4 from '$lib/assets/gallery/4.webp';
-	import photo5 from '$lib/assets/gallery/5.webp';
-	import photo6 from '$lib/assets/gallery/6.webp';
-	import photo7 from '$lib/assets/gallery/7.webp';
-	import photo8 from '$lib/assets/gallery/8.webp';
-	import photo9 from '$lib/assets/gallery/9.webp';
-	import photo10 from '$lib/assets/gallery/10.webp';
-	import photo11 from '$lib/assets/gallery/11.webp';
+	import photo2 from '$lib/assets/gallery/22.webp';
+	import photo3 from '$lib/assets/gallery/33.webp';
+	import photo4 from '$lib/assets/gallery/44.webp';
+	import photo5 from '$lib/assets/gallery/55.webp';
+	import photo6 from '$lib/assets/gallery/66.webp';
+	import photo7 from '$lib/assets/gallery/77.webp';
+	import photo8 from '$lib/assets/gallery/88.webp';
+	import photo9 from '$lib/assets/gallery/99.webp';
+	import photo10 from '$lib/assets/gallery/100.webp';
+	import photo11 from '$lib/assets/gallery/110.webp';
 
 	import PhotoSwipeLightBox from 'photoswipe/lightbox';
 	import PhotoSwipe from 'photoswipe';
